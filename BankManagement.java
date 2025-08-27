@@ -1,3 +1,5 @@
+// a datialed code for banking management system
+
 import java.util.*;
 
  class Person{
