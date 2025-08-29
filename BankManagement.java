@@ -1,4 +1,4 @@
-// a datialed code for banking management system
+// a datialed code for banking management system  in java
 
 import java.util.*;
 
